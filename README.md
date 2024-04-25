@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hello, my name is Jude B. Gajitos from BSCS 3B and welcome to my compilation of activities and exercises for the subject CSST 104 Advanced Machine Learning.
+Hello, my name is Jude B. Gajitos from BSCS 3B and welcome to my compilation of <a href="Activities">activities</a> and <a href="Exercises">exercises</a> for the subject CSST 104 Advanced Machine Learning.
 
 # **Table of Contents**
 
