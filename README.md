@@ -9,29 +9,29 @@ Hello, my name is Jude B. Gajitos from BSCS 3B and welcome to my compilation of 
 1. [Activity 1 Description](#activity-1)
 2. <a href="Activities/3B-GAJITOS-ACT1.ipynb">Activity 1 Code</a>
 3. [Activity 2 Simple Linear Regression Description](#activity-2-simple-linear-regression)
-4. [Activity 2 Code]()
+4. <a href="Activities/3B-GAJITOS-ACT2.ipynb">Activity 2 Code</a>
 5. [Activity 3 Multiple Linear Regression Description](#activity-3-multiple-linear-regression)
-6. [Activity 3 Code]()
+6. <a href="Activities/3B-GAJITOS-ACT3.ipynb">Activity 3 Code</a>
 7. [Activity 4 Logistic Regression Description](#activity-4-logistic-regression)
-8. [Activity 4 Code]()
+8. <a href="Activities/3B-GAJITOS-ACT4.ipynb">Activity 4 Code</a>
 9. [Exercise 1](#exercise-1)
-10. [Exercise 1 Code]()
+10. <a href="Exercises/3B-GAJITOS-EXER1.ipynb">Exercise 1 Code</a>
 11. [Exercise 2](#exercise-2)
-12. [Exercise 2 Code]()
+12. <a href="Exercises/3B-GAJITOS-EXER2.ipynb">Exercise 2 Code</a>
 13. [Exercise 3](#exercise-3)
-14. [Exercise 3 Code]()
+14. <a href="Exercises/3B-GAJITOS-EXER3.ipynb">Exercise 3 Code</a>
 15. [Exercise 4](#exercise-4)
-16. [Exercise 4 Code]()
+16. <a href="Exercises/3B-GAJITOS-EXER4.ipynb">Exercise 4 Code</a>
 17. [Exercise 5](#exercise-5)
-18. [Exercise 5 Code]()
+18. <a href="Exercises/3B-GAJITOS-EXER5.ipynb">Exercise 5 Code</a>
 19. [Exercise 6](#exercise-6)
-20. [Exercise 6 Code]()
+20. <a href="Exercises/3B-GAJITOS-EXER6.ipynb">Exercise 6 Code</a>
 21. [Exercise 7](#exercise-7)
-22. [Exercise 7 Code]()
+22. <a href="Exercises/3B-GAJITOS-EXER7.ipynb">Exercise 7 Code</a>
 23. [Exercise 8](#exercise-8)
-24. [Exercise 8 Code]()
+24. <a href="Exercises/3B-GAJITOS-EXER8.ipynb">Exercise 8 Code</a>
 25. [Exercise 9](#exercise-9-midterm)
-26. [Exercise 9 Code]()
+26. <a href="Exercises/3B-GAJITOS-MIDTERM.ipynb">Exercise 9 Code</a>
 27. [Conclusion](#conclusion)
 
 # **ACTIVITY 1**
