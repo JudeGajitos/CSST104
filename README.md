@@ -15,7 +15,7 @@ Hello, my name is Jude B. Gajitos from BSCS 3B and welcome to my compilation of 
 
 # Description
 
-This activity is all about Exploratory Data Analysis of Product Data. Wu use a dataset named hardwareStore.csv. We plot the distribution of products across categories, the analysis of cost and price, distribution of products in cities then the final part is the insight and reporting which is the summary of the activity program.
+This activity is all about Exploratory Data Analysis of Product Data. We use a dataset named hardwareStore.csv. We plot the distribution of products across categories, the analysis of cost and price, distribution of products in cities then the final part is the insight and reporting which is the summary of the activity program.
 
 # **ACTIVITY 2**
 
