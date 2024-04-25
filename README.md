@@ -30,7 +30,7 @@ Hello, my name is Jude B. Gajitos from BSCS 3B and welcome to my compilation of 
 22. [Exercise 7 Code]()
 23. [Exercise 8](#exercise-8)
 24. [Exercise 8 Code]()
-25. [Exercise 9](#exercise-9)
+25. [Exercise 9](#exercise-9-midterm)
 26. [Exercise 9 Code]()
 27. [Conclusion](#conclusion)
 
